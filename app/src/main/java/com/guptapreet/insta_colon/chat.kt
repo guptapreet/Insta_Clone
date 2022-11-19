@@ -1,6 +1,5 @@
 package com.guptapreet.insta_colon
 
-
 import android.content.Intent
 import android.os.Bundle
 import android.widget.ImageView
